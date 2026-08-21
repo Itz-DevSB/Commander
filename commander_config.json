@@ -1,0 +1,7 @@
+{
+    "theme": "blue",
+    "confirm_delete": true,
+    "search_hidden": true,
+    "default_drive": "C:\\",
+    "show_status": true
+}
